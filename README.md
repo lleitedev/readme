@@ -18,7 +18,7 @@ Atualmente, estou expandindo meus conhecimentos para tecnologias e práticas ava
   Estudando como implementar pipelines de integração e entrega contínua para otimizar processos de desenvolvimento.
 - **Infraestrutura:**  
   Iniciando meus estudos em AWS, Kubernetes e outras tecnologias de infraestrutura como código para garantir sistemas resilientes.
-- **Blockchain ** 
+- **Blockchain** 
   Explorando o universo descentralizado e as inovações dos marketplaces.
 
 Minha missão é evoluir continuamente e aplicar esses conhecimentos para criar soluções de alta performance, que atendam tanto aos requisitos técnicos quanto às demandas do mercado.
